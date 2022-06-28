@@ -1,0 +1,9 @@
+1- Transformar o header em component
+2- Criar um Footer 
+2- Criar um componente de botão
+3- Criar o componente de Conectar
+4- Criar o componente de Transfer
+5- Criar o componente de Comprar
+6- Criar o componente de input text
+7- Criar componente de modal de sucesso
+7- Criar telinha do protótipo
